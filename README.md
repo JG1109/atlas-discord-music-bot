@@ -1,5 +1,5 @@
 # Atlas_Music_Bot
-![bot icon](https://github.com/Rickaphile/Atlas_Music_Bot/blob/main/resrcs/Icon.png)
+<img src="https://github.com/Rickaphile/Atlas_Music_Bot/blob/main/resrcs/Icon-modified.png" width="100" height="100">
 A Discord music bot which can play music on YouTube and Spotify.
 ## How to configure
 1. Go to [Discord Developer Portal](https://discord.com/developers/applications) and create a bot.
