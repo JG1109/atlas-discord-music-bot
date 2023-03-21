@@ -1,0 +1,4 @@
+- send embeds to context
+- add reaction to .shuffle
+- skip numbers of songs
+- send messages when invited to a server
